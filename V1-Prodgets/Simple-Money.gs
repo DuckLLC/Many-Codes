@@ -11,3 +11,7 @@ function GiveMoney(time) {
 //To use the callback, just call the funtion GiveMoney with time
 
 
+//Update Log
+//V1
+//Created the Code
+//Nothing Else
